@@ -1,3 +1,7 @@
+// How to create api gateway :- create new service for api gateway and import APIGATEWAY package.
+// application.propertise file :- we have to create application routing
+// you have to add eureca server and gateway cloud dependecies
+
 server:
   port: 8083
   
